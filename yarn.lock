@@ -28,29 +28,10 @@
     "@bazel/bazel-linux_x64" "2.0.0"
     "@bazel/bazel-win32_x64" "2.0.0"
 
-"@bazel/buildifier-darwin_x64@0.29.0":
-  version "0.29.0"
-  resolved "https://registry.npm.taobao.org/@bazel/buildifier-darwin_x64/download/@bazel/buildifier-darwin_x64-0.29.0.tgz#13dfaf3ea4d89f9d4da00085e894e90b7d302342"
-  integrity sha1-E9+vPqTYn51NoACF6JTpC30wI0I=
-
-"@bazel/buildifier-linux_x64@0.29.0":
-  version "0.29.0"
-  resolved "https://registry.npm.taobao.org/@bazel/buildifier-linux_x64/download/@bazel/buildifier-linux_x64-0.29.0.tgz#0191fc46735a1c281878642673844f2b717cd8dc"
-  integrity sha1-AZH8RnNaHCgYeGQmc4RPK3F82Nw=
-
-"@bazel/buildifier-win32_x64@0.29.0":
-  version "0.29.0"
-  resolved "https://registry.npm.taobao.org/@bazel/buildifier-win32_x64/download/@bazel/buildifier-win32_x64-0.29.0.tgz#a63438c7a7d2dc593e626ed6e163e9d8ea93917a"
-  integrity sha1-pjQ4x6fS3Fk+Ym7W4WPp2OqTkXo=
-
-"@bazel/buildifier@0.29.0":
-  version "0.29.0"
-  resolved "https://registry.yarnpkg.com/@bazel/buildifier/-/buildifier-0.29.0.tgz#7984739270c8d1dd23650f87a810e1e6367188d9"
-  integrity sha512-skJ7vVff7x3tB8crBCtJji2wU09uH0uD2N30xfOpVUgsMJSXktAQMj8+RPdMBqJQ9XS5+O5lmRthR35Ua7xQXA==
-  optionalDependencies:
-    "@bazel/buildifier-darwin_x64" "0.29.0"
-    "@bazel/buildifier-linux_x64" "0.29.0"
-    "@bazel/buildifier-win32_x64" "0.29.0"
+"@bazel/buildifier@2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@bazel/buildifier/-/buildifier-2.2.1.tgz#b5b21d0042ea48a9c43b54ec4824d4d6505988bc"
+  integrity sha512-fDWMV2x03/K5dZnAEBeKS0gpn0LWCiv5kjhMB6q0f1Q5x6S7/+xoownxgWyNRo+qHxn+a2CtQSCRUpSC8QNg/w==
 
 "@bazel/hide-bazel-files@latest":
   version "1.0.0"
